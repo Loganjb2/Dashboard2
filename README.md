@@ -1,6 +1,3 @@
 # Dashboard2
 
-This is Basic
-Cool
-
-Going Back
+This is the trial dashboard
